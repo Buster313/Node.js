@@ -1,0 +1,15 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gid add.",
+  "scripts": {
+    "test": "logout"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm logout"
+  },
+  "author": "Guru99. <guru99@gmail.com> (http://Guru99.com)",
+  "license": "ISC"
+}
